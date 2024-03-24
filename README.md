@@ -18,3 +18,4 @@ https://github.com/tanishq150802/chat_and_validate/assets/81608921/20e36343-f0d6
 * llama-index-vector-stores-chroma
 * chromadb
 * streamlit
+* ragas
